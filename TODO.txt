@@ -1,0 +1,6 @@
+Click an item: Dialog for found/not found and finder's name
+
+Menu:
+- Scoreboard - shows dialog with scores for each Finder
+- Reset - resets all data
+- About

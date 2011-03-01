@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, LicensePlateGame!</string>
+    <string name="app_name">LicensePlateGame</string>
+    <string name="found">FOUND</string>
+    <string name="not_found"> </string>
+</resources>
